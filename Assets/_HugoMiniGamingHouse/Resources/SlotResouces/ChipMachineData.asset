@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e15b3155694e64dd79add3be7419f0a4, type: 3}
+  m_Name: ChipMachineData
+  m_EditorClassIdentifier: 
+  type: 2
+  prefab: {fileID: 3736561855865406784, guid: f0f30b5d4826e464b9b1ebb4ee76adec, type: 3}
+  levelDatas:
+  - ingredientDatas:
+    - ingredientType: 1
+      count: 5
+    cost:
+      key: 0
+      masked: 500
+    bonus:
+      key: 0
+      masked: 100
+  - ingredientDatas:
+    - ingredientType: 1
+      count: 5
+    cost:
+      key: 0
+      masked: 400
+    bonus:
+      key: 0
+      masked: 100
+  - ingredientDatas:
+    - ingredientType: 1
+      count: 6
+    cost:
+      key: 0
+      masked: 600
+    bonus:
+      key: 0
+      masked: 120
+  - ingredientDatas:
+    - ingredientType: 1
+      count: 7
+    cost:
+      key: 0
+      masked: 800
+    bonus:
+      key: 0
+      masked: 140
+  - ingredientDatas:
+    - ingredientType: 1
+      count: 8
+    cost:
+      key: 0
+      masked: 1000
+    bonus:
+      key: 0
+      masked: 160
+  - ingredientDatas:
+    - ingredientType: 1
+      count: 9
+    cost:
+      key: 0
+      masked: 1200
+    bonus:
+      key: 0
+      masked: 180
+  - ingredientDatas:
+    - ingredientType: 1
+      count: 10
+    cost:
+      key: 0
+      masked: 1400
+    bonus:
+      key: 0
+      masked: 200
+  - ingredientDatas:
+    - ingredientType: 1
+      count: 11
+    cost:
+      key: 0
+      masked: 1600
+    bonus:
+      key: 0
+      masked: 220
+  - ingredientDatas:
+    - ingredientType: 1
+      count: 12
+    cost:
+      key: 0
+      masked: 1800
+    bonus:
+      key: 0
+      masked: 240
+  - ingredientDatas:
+    - ingredientType: 1
+      count: 13
+    cost:
+      key: 0
+      masked: 2000
+    bonus:
+      key: 0
+      masked: 260
+  - ingredientDatas:
+    - ingredientType: 1
+      count: 15
+    cost:
+      key: 0
+      masked: 2200
+    bonus:
+      key: 0
+      masked: 300
