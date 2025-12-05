@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Hugo Mini Gaming House
+  productName: Christchurch Startup
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -164,8 +164,8 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   androidMinAspectRatio: 1
   applicationIdentifier:
-    Android: com.hugocsn.gaming.house
-    iPhone: com.hugocsn.gaming.house
+    Android: com.christchurch.startups
+    iPhone: com.christchurch.startups
   buildNumber:
     Standalone: 0
     VisionOS: 0
@@ -266,8 +266,8 @@ PlayerSettings:
   AndroidTargetArchitectures: 3
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: '{inproject}: HugoGames.keystore'
-  AndroidKeyaliasName: hugogames
+  AndroidKeystoreName: '{inproject}: Christchurch.keystore'
+  AndroidKeyaliasName: christchurch
   AndroidEnableArmv9SecurityFeatures: 0
   AndroidEnableArm64MTE: 0
   AndroidBuildApkPerCpuArchitecture: 0
@@ -295,7 +295,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: 68cb52749196d3c469d05f2376cf8a0b, type: 3}
+      m_Icon: {fileID: 2800000, guid: e26f46754925b234c9753ebc93c494bb, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0

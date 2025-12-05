@@ -143,12 +143,12 @@ public class GameManager : Manager
         SendEvent(EventKey.MANAGER_STARTGAME, null);
         SetState(GameState.Playing);
 
-        if (AppHugo.isLevels)
+        if (AppChrist.isLevels)
         {
-            HugoTimer.instance.StartTimer();
+            ChristTimer.instance.StartTimer();
         }
-        HugoTimer.instance.timerText.transform.parent.gameObject.SetActive(AppHugo.isLevels);        
-        Game.Instance.targetText.transform.parent.gameObject.SetActive(AppHugo.isLevels);
+        ChristTimer.instance.timerText.transform.parent.gameObject.SetActive(AppChrist.isLevels);        
+        Game.Instance.targetText.transform.parent.gameObject.SetActive(AppChrist.isLevels);
     }
 
     public override void Win()

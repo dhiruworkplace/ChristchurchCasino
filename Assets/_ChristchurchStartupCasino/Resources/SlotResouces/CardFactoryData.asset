@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1ae8d1a6af8f4dd1aa90433b011d1a2, type: 3}
+  m_Name: CardFactoryData
+  m_EditorClassIdentifier: 
+  type: 1
+  prefab: {fileID: 4154474606753733977, guid: d349bfc667e6442a5b7608e721b2e9c0, type: 3}
+  levelDatas:
+  - ingredientInCountMax: 1
+    ingredientOutCountMax: 10
+    ingredientCount: 2
+    cost:
+      key: 0
+      masked: 400
+  - ingredientInCountMax: 2
+    ingredientOutCountMax: 15
+    ingredientCount: 2
+    cost:
+      key: 0
+      masked: 400
+  - ingredientInCountMax: 3
+    ingredientOutCountMax: 20
+    ingredientCount: 3
+    cost:
+      key: 0
+      masked: 600
+  - ingredientInCountMax: 4
+    ingredientOutCountMax: 25
+    ingredientCount: 4
+    cost:
+      key: 0
+      masked: 800
+  - ingredientInCountMax: 5
+    ingredientOutCountMax: 30
+    ingredientCount: 5
+    cost:
+      key: 0
+      masked: 1000
+  - ingredientInCountMax: 6
+    ingredientOutCountMax: 35
+    ingredientCount: 6
+    cost:
+      key: 0
+      masked: 1200
+  - ingredientInCountMax: 7
+    ingredientOutCountMax: 40
+    ingredientCount: 7
+    cost:
+      key: 0
+      masked: 1400
+  - ingredientInCountMax: 8
+    ingredientOutCountMax: 45
+    ingredientCount: 8
+    cost:
+      key: 0
+      masked: 1600
+  - ingredientInCountMax: 9
+    ingredientOutCountMax: 50
+    ingredientCount: 9
+    cost:
+      key: 0
+      masked: 1800
+  - ingredientInCountMax: 10
+    ingredientOutCountMax: 60
+    ingredientCount: 10
+    cost:
+      key: 0
+      masked: 2000
+  - ingredientInCountMax: 12
+    ingredientOutCountMax: 70
+    ingredientCount: 12
+    cost:
+      key: 0
+      masked: 2200
