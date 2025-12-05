@@ -38,7 +38,7 @@ public class Game : Manager
         set
         {
             _coins = value;
-            targetText.text = value + "/" + ((AppChrist.selectedLevel) * 1000);
+            targetText.text = ((AppChrist.selectedLevel) * 1000).ToString();
             if (value >= (AppChrist.selectedLevel) * 1000)
             {
                 ShowGameOver(true);

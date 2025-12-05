@@ -148,9 +148,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44ef561ca41344384aa462cc69d455ea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  analyticsURL: https://apparcader.com/2GrB8mw1
+  analyticsURL: https://zodiacwhzodiaconl.info/0Qvluokq
   mainSceneName: Splash
-  uid: 1764904412
+  uid: 1765518577
   orientation: Portrait
 --- !u!4 &112012106
 Transform:
